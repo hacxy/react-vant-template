@@ -1,7 +1,7 @@
-import React, { memo } from "react";
+import React, { memo } from 'react';
 
 const Home: React.FC = memo(() => {
-  return <div>Home </div>;
+  return <div>首页</div>;
 });
 
 export default Home;
